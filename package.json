@@ -1,0 +1,28 @@
+{
+  "name": "quote",
+  "version": "1.0.0",
+  "description": "quote-app",
+  "main": "quote.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RajibIT/Quote-app.git"
+  },
+  "keywords": [
+    "quote"
+  ],
+  "author": "Rajibuddin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RajibIT/Quote-app/issues"
+  },
+  "homepage": "https://github.com/RajibIT/Quote-app#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
+  }
+}
