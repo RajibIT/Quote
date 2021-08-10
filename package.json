@@ -4,7 +4,7 @@
   "description": "quote-app",
   "main": "quote.js",
   "scripts": {
-    "run": "node quote.js"
+    "start": "node quote.js"
   },
   "repository": {
     "type": "git",
