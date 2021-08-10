@@ -1,5 +1,5 @@
 <?php
 
-include_once("quote.html");
+include_once("quote.js");
 
 ?>
